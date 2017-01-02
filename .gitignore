@@ -23,3 +23,6 @@
 # Ignore postgresql data
 data
 db_data
+
+# Ignore Windows artifacts
+desktop.ini
